@@ -1,0 +1,8 @@
+{
+  "name": "canvas-demo1",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:vangie-wu/canvas-2.git",
+  "author": "vangie <wjidian@gmail.com>",
+  "license": "MIT"
+}

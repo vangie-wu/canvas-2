@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  }
+  .game{
+    width:100vw;
+    height:100vh;;
+    margin:auto;
+    overflow:hidden;
+  }
+  @media (min-width: 500px){
+    .game{
+      width:480px;
+      
+    }
+  }
